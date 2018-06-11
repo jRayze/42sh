@@ -10,7 +10,7 @@ make
 
 ./ft_ls
 
-Les features optionnelles :
+## Optional features :
 
 • Les inhibiteurs """ (double quote), "’" (simple quote) et "\" (backslash).
 
