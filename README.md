@@ -2,13 +2,13 @@
 
 ## How to use
 
-git clone https://github.com/jRayze/Ft_ls.git
+git clone https://github.com/jRayze/42sh.git
 
-cd Ft_ls
+cd 42sh
 
 make
 
-./ft_ls
+./42sh
 
 ## Optional features :
 
